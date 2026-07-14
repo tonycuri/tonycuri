@@ -1,10 +1,9 @@
 #👋 ¡Hola! Soy Tony Curi
+👨‍🏫 Profesor de Informática • 🤖 Robótica Educativa • 📊 Data Analytics & Business Intelligence
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Teacher;Data+Analytics+Student;Business+Intelligence;Educational+Robotics;Always+Learning+🚀" />
 </p>
-
-👨‍🏫 Profesor de Informática • 🤖 Robótica Educativa • 📊 Data Analytics & Business Intelligence
 
 Soy docente de informática en Argentina con experiencia en educación tecnológica, robótica y pensamiento computacional. Actualmente me estoy especializando en Análisis de Datos y Business Intelligence, aplicando herramientas como Python, SQL, Excel y Google Sheets para convertir datos en información útil para la toma de decisiones.
 
