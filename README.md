@@ -1,20 +1,21 @@
-# 👋 ¡Hola! Soy Tony Curi
+#👋 ¡Hola! Soy Tony Curi
 
-📊 **Data Analytics Student** | 👨‍🏫 **Computer Science Teacher** | 📈 **Business Intelligence Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Teacher;Data+Analytics+Student;Business+Intelligence;Educational+Robotics;Always+Learning+🚀" />
+</p>
 
-Soy docente de informática en Argentina y actualmente me estoy especializando en **Análisis de Datos** y **Business Intelligence**.
+👨‍🏫 Profesor de Informática • 🤖 Robótica Educativa • 📊 Data Analytics & Business Intelligence
 
-Me apasiona transformar datos en información útil para la toma de decisiones, crear dashboards interactivos y desarrollar proyectos educativos que integren tecnología y análisis de datos.
+Soy docente de informática en Argentina con experiencia en educación tecnológica, robótica y pensamiento computacional. Actualmente me estoy especializando en Análisis de Datos y Business Intelligence, aplicando herramientas como Python, SQL, Excel y Google Sheets para convertir datos en información útil para la toma de decisiones.
 
 ---
 
 ## 🚀 Actualmente
-
-* 📚 Estudiando **Análisis de Datos** y **Business Intelligence**
-* 🐍 Profundizando en **Python** para análisis de datos
-* 🗄️ Aprendiendo **SQL**
-* 📊 Desarrollando proyectos con **Google Sheets**, **Excel** y herramientas de visualización
-* 🎓 Enseñando Informática y Robótica Educativa
+*📊 Cursando Análisis de Datos y Business Intelligence.
+*🐍 Aprendiendo Python para análisis de datos.
+*🗄️ Profundizando en SQL.
+*📈 Creando dashboards y reportes interactivos.
+*🤖 Desarrollando proyectos de robótica educativa.
 
 ---
 
@@ -30,11 +31,19 @@ Me apasiona transformar datos en información útil para la toma de decisiones, 
 
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Educational%20Technology-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Robotics-Education-success?style=for-the-badge"/>
 
 </p>
 
@@ -42,16 +51,17 @@ Me apasiona transformar datos en información útil para la toma de decisiones, 
 
 ## 📂 Proyectos destacados
 
-🔹 **Mate+ Data Analysis**
+📊 Mate+ Data Analysis
 
-Proyecto académico donde se analizaron datos de una aplicación educativa utilizando:
+Análisis de datos de una aplicación educativa utilizando Google Sheets, SQL y dashboards interactivos.
 
-* Limpieza y transformación de datos
-* Google Sheets
-* SQL
-* Dashboard
-* Storytelling
-* Visualización de datos
+🤖 Robotics Education
+
+Actividades y recursos de robótica educativa para nivel inicial, primario y secundario.
+
+🐍 Python Practice
+
+Ejercicios y proyectos desarrollados durante mi formación en Python.
 
 ---
 
@@ -69,19 +79,23 @@ Proyecto académico donde se analizaron datos de una aplicación educativa utili
 
 ---
 
-## 🌎 Sobre mí
+## 🌎 Un poco sobre mí
 
-* 🇦🇷 Buenos Aires, Argentina
-* 👨‍🏫 Profesor de Informática
-* 📊 En formación como Analista de Datos
-* 🤖 Apasionado por la robótica educativa
-* 📚 Siempre aprendiendo nuevas tecnologías
+👨‍🏫 Profesor de Informática
+
+🤖 Especializado en Robótica Educativa
+
+📊 Estudiante de Data Analytics & Business Intelligence
+
+💡 Interesado en tecnología aplicada a la educación
+
+📚 Aprendiz constante
 
 ---
 
-## 📫 Contacto
+## 📫 Conectemos
 
-Si te interesa conversar sobre tecnología, educación o análisis de datos, ¡será un gusto conectar!
+Siempre estoy interesado en aprender, compartir proyectos y colaborar en iniciativas relacionadas con tecnología, educación y análisis de datos.
 
 
 <!--
