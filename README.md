@@ -12,10 +12,15 @@ Soy docente de informática en Argentina con experiencia en educación tecnológ
 
 ## 🚀 Actualmente
 *📊 Cursando Análisis de Datos y Business Intelligence.
+
 *🐍 Aprendiendo Python para análisis de datos.
+
 *🗄️ Profundizando en SQL.
+
 *📈 Creando dashboards y reportes interactivos.
+
 *🤖 Desarrollando proyectos de robótica educativa.
+
 
 ---
 
